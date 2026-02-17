@@ -6,3 +6,5 @@ are linked to to one another and to the backhaul infrastructure.
 It is important to consider how different types of infrastructure will connect to your community POP when developing
 a network. Items such as wireless towers can connect to POPs via wireless or fibre-fed technologies, and will be
 impacted by geographic factors such as distance and community density.
+
+Sourced from the [Alberta Broadband Toolkit.](https://ruraldevelopment.ca/wp-content/uploads/2024/11/2023-Alberta-Broadband-Toolkit-FINAL-1-2.pdf)
