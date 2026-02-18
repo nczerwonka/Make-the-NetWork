@@ -7,3 +7,5 @@ Conduit deployment costs are important to consider when planning on creating or 
 involves building and installing fibre conduits anytime municipal infrastructure (road, water and sewer) projects are undertaken, even if no fibre cables are planned to be immediately
 installed within them. Preempitvely building conduits this way can reduce the cost of future conduit deployments by as much as 90%, while only increasing construction costs by a few cents for every
 dollar.
+
+Sourced from the [Alberta Broadband Toolkit.](https://ruraldevelopment.ca/wp-content/uploads/2024/11/2023-Alberta-Broadband-Toolkit-FINAL-1-2.pdf)
