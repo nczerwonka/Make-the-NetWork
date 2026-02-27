@@ -23,3 +23,7 @@ there are several factors that need to be considered. Further information on tow
 found in ISED's Client Procedures Circular: [Radiocommunication and Broadcasting Antenna Systems.](https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/learn-more/key-documents/procedures/client-procedures-circulars-cpc/cpc-2-0-03-radiocommunication-and-broadcasting-antenna-systems)
 
 Sourced from the [Alberta Broadband Toolkit.](https://ruraldevelopment.ca/wp-content/uploads/2024/11/2023-Alberta-Broadband-Toolkit-FINAL-1-2.pdf)
+
+<img src="https://github.com/user-attachments/assets/8e974b87-b473-451b-a40b-cc62a5b70132" width="300">
+
+Image credit of Michael McNally.
