@@ -9,3 +9,10 @@ installed within them. Preempitvely building conduits this way can reduce the co
 dollar.
 
 Sourced from the [Alberta Broadband Toolkit.](https://ruraldevelopment.ca/wp-content/uploads/2024/11/2023-Alberta-Broadband-Toolkit-FINAL-1-2.pdf)
+
+
+<img src = "https://github.com/user-attachments/assets/e53c5f7a-3f75-4aeb-a9da-3fb1c4e3173f" width = "600">
+
+Image credit of Michael McNally.
+
+
