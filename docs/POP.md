@@ -8,3 +8,7 @@ a network. Items such as wireless towers can connect to POPs via wireless or fib
 impacted by geographic factors such as distance and community density.
 
 Sourced from the [Alberta Broadband Toolkit.](https://ruraldevelopment.ca/wp-content/uploads/2024/11/2023-Alberta-Broadband-Toolkit-FINAL-1-2.pdf)
+
+<img width="500" src="https://github.com/user-attachments/assets/cdefcfd5-9930-485d-bb0d-43c18c9ea4b3" />
+
+Image credit of Michael McNally.
