@@ -20,3 +20,7 @@ Since much of the traffic routes through YYCIX, getting to an internet exchange 
 "Getting to Calgary".
 
 Sourced from the [Alberta Broadband Toolkit.](https://ruraldevelopment.ca/wp-content/uploads/2024/11/2023-Alberta-Broadband-Toolkit-FINAL-1-2.pdf)
+
+<img width="700" src="https://github.com/user-attachments/assets/5c727b1e-8d61-4a74-9856-2bd572f59aed" />
+
+Image obtained from Wikimedia Commons licensed under [Creative Commons Attribution-Share Alike 3.0 Unported license.](https://creativecommons.org/licenses/by-sa/3.0/)
