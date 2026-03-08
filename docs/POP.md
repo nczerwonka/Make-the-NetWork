@@ -9,6 +9,7 @@ impacted by geographic factors such as distance and community density.
 
 Sourced from the [Alberta Broadband Toolkit.](https://ruraldevelopment.ca/wp-content/uploads/2024/11/2023-Alberta-Broadband-Toolkit-FINAL-1-2.pdf)
 
-<img width="500" src="https://github.com/user-attachments/assets/cdefcfd5-9930-485d-bb0d-43c18c9ea4b3" />
+<img src = "https://github.com/user-attachments/assets/dd764afa-ed30-4f9c-8dd5-ea2d241a0c66" width= "500">
+
 
 Image credit of Michael McNally.
