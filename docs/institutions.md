@@ -1,8 +1,8 @@
-# Institutional Broadband Users
-### Hospitals, Schools, Band/Government Offices
+# Institutional Broadband Users and Community Assets
+### Hospitals, Schools, Band/Government Offices, and Local Industry
 
-Institutional users are the buildings and organizations which host multitudes of people and practices, and provide 
-essential services to the community; these can include hospitals, schools, and places of governance, for example.
+Institutional users and community assets are the buildings and organizations which host multitudes of people and practices, and provide 
+essential services to the community; these can include hospitals, schools, places of governance, and local industry, for example.
 
 These places are likely to require special consideration when building your broadband network. As high traffic locations which
 require a much larger amount of broadband access and computing power when compared to your average home or business, it is
