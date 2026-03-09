@@ -16,4 +16,4 @@ so it is important to consider the speciic needs of your community for this deci
 
 <img width="600" src="https://github.com/user-attachments/assets/f050142b-1965-449c-8c1f-1b63625c1a43">
 
-Image licensed as [Creative Commons Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
+Image licensed as [Creative Commons Public Domain.](https://creativecommons.org/publicdomain/zero/1.0/)
