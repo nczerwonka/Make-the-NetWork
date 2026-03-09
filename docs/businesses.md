@@ -18,3 +18,7 @@ in more explicit legal terms than household ISP agreements generally do.
 [Read more on SLAs.](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=25761)
 
 Sourced from the [Alberta Broadband Toolkit.](https://ruraldevelopment.ca/wp-content/uploads/2024/11/2023-Alberta-Broadband-Toolkit-FINAL-1-2.pdf)
+
+<img width="700" src="https://github.com/user-attachments/assets/c5eedfc0-2898-48bf-b58c-aeab56aa7e61" />
+
+Image licensed as [Creative Commons Public Domain.](https://creativecommons.org/publicdomain/zero/1.0/)
