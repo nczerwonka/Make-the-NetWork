@@ -12,3 +12,8 @@ Important points to consider when building a nimble mesh network are:
 * Nimble footprints are smaller than those of wireless towers. When planning for use in your community, this should be considered.
 * There are important factors to consider when choosing where to place a **nimble access point**, such as: what is the height of the building? How accessible is this building, and who would
   reasonably have access to the equipment? Are there weather exposure concerns?
+
+
+<img width="600" src="https://github.com/user-attachments/assets/6f3671c6-a893-4d03-8c0e-9ce850ab65a3" />
+
+Image courtesy of Eric Nitschke at [Wakoma](https://wakoma.co/nimble/)
